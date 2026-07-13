@@ -55,6 +55,8 @@ Additional columns were created to simplify analysis.
 
 Exploring the dataset to identify Outliers, trends, customer behaviour, product performance and operational patterns.
 
+<img width="756" height="358" alt="image" src="https://github.com/user-attachments/assets/7bc1b9c3-af1f-461b-a0fc-e3f01bc72a6d" />
+
 **Descriptive Statistics**
 
 The following statistics were calculated:
@@ -88,8 +90,6 @@ The analysis answered the following questions:
 An interactive Excel dashboard was built using:
 
 Pivot Tables, Pivot Charts, Slicers, KPI Cards, Excel Shapes, Conditional Formatting.
-
-<img width="756" height="358" alt="image" src="https://github.com/user-attachments/assets/7bc1b9c3-af1f-461b-a0fc-e3f01bc72a6d" />
 
 **Dashboard KPIs** : Total Sales Value, Average Order Value, Total Customers, Quantity Sold, Return Rate
 
