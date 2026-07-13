@@ -6,7 +6,7 @@ This project demonstrates an end-to-end sales analysis workflow in Microsoft Exc
 
 The objective was to transform a raw sales dataset into a clean, structured dataset and generate actionable business insights using Excel functions, Pivot Tables, Pivot Charts, and interactive slicers.
 ### Project Objectives
-### Project 1 – Data Cleaning & Preparation
+## Project 1 – Data Cleaning & Preparation
 **Goal**
 
 Prepare the raw dataset for analysis by improving data quality and ensuring consistency.
@@ -115,45 +115,45 @@ Pivot Tables, Pivot Charts, Slicers, KPI Cards, Excel Shapes, Conditional Format
 5. Continuously monitoring of order status trends and return rates to improve operational efficiency and customer satisfaction.
 
 ### Tools Used
-Microsoft Excel
-Pivot Tables
-Pivot Charts
-Slicers
-Excel Functions
-Conditional Formatting
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Excel Functions
+- Conditional Formatting
 
 ### Skills Demonstrated
-Data Cleaning
-Data Validation
-Data Preparation
-Descriptive Statistics
-Exploratory Data Analysis
-Dashboard Design
-Data Visualization
-Business Insight Generation
-Analytical Thinking
+- Data Cleaning
+- Data Validation
+- Data Preparation
+- Descriptive Statistics
+- Exploratory Data Analysis
+- Dashboard Design
+- Data Visualization
+- Business Insight Generation
+- Analytical Thinking
 
 **Project Workflow**
 
 Microsoft ExcelRaw Dataset
         │
         ▼
-Data Cleaning
+  Data Cleaning
         │
         ▼
-Data Preparation
+ Data Preparation
         │
         ▼
 Exploratory Data Analysis
         │
         ▼
-Pivot Tables
+ Pivot Tables
         │
         ▼
-Dashboard Development
+ Dashboard Development
         │
         ▼
-Business Insights
+ Business Insights
 
 
 
